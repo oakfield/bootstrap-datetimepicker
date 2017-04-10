@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-datetime-picker",
   "homepage": "https://github.com/oakfield/bootstrap-datetimepicker",
-  "description": "Both Date and Time picker widget based on twitter bootstrap",
+  "description": "Date and time picker based on Twitter Bootstrap",
   "version": "2.5.0",
   "license": "Apache 2.0",
   "author": {
