@@ -1,5 +1,5 @@
 {
-  "name": "smalot-bootstrap-datetimepicker",
+  "name": "solera-bootstrap-datetimepicker",
   "main": ["js/bootstrap-datetimepicker.min.js", "css/bootstrap-datetimepicker.min.css"],
   "ignore": [
     "build",
